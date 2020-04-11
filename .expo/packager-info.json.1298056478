@@ -1,0 +1,10 @@
+{
+  "webpackServerPort": 19006,
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 8104,
+  "expoServerNgrokUrl": "https://kj-454.anonymous.ignitetrivia.exp.direct",
+  "packagerNgrokUrl": "https://packager.kj-454.anonymous.ignitetrivia.exp.direct",
+  "ngrokPid": 16212
+}
